@@ -1,0 +1,1 @@
+Patika veri bilimi Insertion Sort projesi bulunuyor.
